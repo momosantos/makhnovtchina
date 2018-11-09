@@ -1,3 +1,4 @@
+{
   "name": "makhnovtchina",
   "version": "1.0.0",
   "description": "",
@@ -5,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Maxime Morice",
+  "author": "maxime morice",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.4.2"
