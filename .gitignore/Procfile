@@ -1,1 +1,2 @@
-->worker: node index
+npm: start
+worker: node index
